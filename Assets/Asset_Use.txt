@@ -1,0 +1,5 @@
+Assets are created by contributors to be used in the mod development process.
+
+For this purpose, the assets listed in these folders are used for the mod to which the Repository belongs.
+
+Unless stated otherwise, all content within these folders has been created by the mod developers.
