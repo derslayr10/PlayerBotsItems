@@ -1,0 +1,15 @@
+# Using following naming standard for all version/patch versions:
+
+vX.Y.Z
+
+# Breakdown:
+- Always list the version starting with a "v" for the purposes of read-only documents that are not code related.
+	-Example documents include the Read-Me and Changelog
+
+- X is used to denote MAJOR updates, such as implementing new whole features or rewrites of mod data.
+
+- Y is used to denote MINOR updates, such as adding new items or minor features. May also be used to denote large bug fixes.
+
+- Z is used to denote PATCH updates, such as fixing minor bugs that would otherwise not interrupt normal gameplay.
+
+# Example of naming system: TwistedLoopMod v2.1.0
