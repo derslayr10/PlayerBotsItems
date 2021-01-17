@@ -1,0 +1,10 @@
+# Each new version of the mod, and each version developed by each contributor, should be placed in its own branch.
+
+# Example: A branch hierarchy for two developers for v1.0.0
+
+main
+	v1.0.0
+		User1
+		User2
+		
+# After the branch is published and finished, contributors can collaborate to decide which updates need to be pushed to higher level branches.
