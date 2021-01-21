@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 931261140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05ac10dfcd4709131a44b1b8a45371a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2957e25099a5c0f2144d75eb19c57844
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Icons/Item/Commando/C0MND0.png
+- Assets/Textures/Materials/Item/Mage/artificerMat1.mat
+- Assets/Models/Prefabs/Item/Captain/C4PTN.prefab
+- Assets/Models/Prefabs/Item/Loader/L0DR.prefab
+- Assets/Textures/Materials/Item/Captain/captainMaterialNew1.mat
+- Assets/Textures/Materials/Item/Croco/acridMat2.mat
+- Assets/Models/Meshes/HNTRS.fbx
+- Assets/Textures/Icons/Item/Engi/3NG.png
+- Assets/Textures/Materials/Item/Treebot/rexMat3.mat
+- Assets/Textures/Materials/Item/Huntress/huntressMat3.mat
+- Assets/Textures/Icons/Item/Toolbot/T00L.png
+- Assets/Textures/Icons/Item/Huntress/HNTRS.png
+- Assets/Textures/Icons/Item/Croco/4CRD.png
+- Assets/Models/Meshes/3NG.fbx
+- Assets/Models/Meshes/C0MND0.fbx
+- Assets/Textures/Materials/Item/Merc/mercMat2.mat
+- Assets/Models/Prefabs/Item/Treebot/R3KS.prefab
+- Assets/Models/Meshes/4CRD.fbx
+- Assets/Models/Meshes/L0DR.fbx
+- Assets/Textures/Icons/Item/Captain/C4PTN.png
+- Assets/Textures/Materials/Item/Treebot/rexMat1.mat
+- Assets/Models/Prefabs/Item/Mage/4R-T-FCR.prefab
+- Assets/Textures/Materials/Item/Mage/artificerMat2.mat
+- Assets/Models/Prefabs/Item/Croco/4CRD.prefab
+- Assets/Models/Prefabs/Item/Toolbot/T00L.prefab
+- Assets/Textures/Materials/Item/Captain/New Material.mat
+- Assets/Textures/Icons/Item/Merc/M3RCNR-3.png
+- Assets/Models/Meshes/R3KS.fbx
+- Assets/Textures/Icons/Item/Treebot/R3KS.png
+- Assets/Textures/Materials/Item/Engi/engiMat1.mat
+- Assets/Textures/Materials/Item/Commando/commandMat1.mat
+- Assets/Models/Meshes/T00L.fbx
+- Assets/Models/Prefabs/Item/Engi/3NG.prefab
+- Assets/Models/Meshes/M3RCNR-3.fbx
+- Assets/Textures/Materials/Item/Merc/mercMat1.mat
+- Assets/Textures/Icons/Item/Mage/4R-T-FCR.png
+- Assets/Models/Prefabs/Item/Huntress/HNTRS.prefab
+- Assets/Textures/Materials/Item/Huntress/huntressMat2.mat
+- Assets/Textures/Icons/Item/Loader/L0DR.png
+- Assets/Textures/Materials/Item/Loader/loaderMat3.mat
+- Assets/Textures/Materials/Item/Treebot/rexMat2.mat
+- Assets/Textures/Materials/Item/Toolbot/multMat1.mat
+- Assets/Models/Meshes/4R-T-FCR.fbx
+- Assets/Textures/Materials/Item/Croco/acridMat1.mat
+- Assets/Models/Prefabs/Item/Commando/C0MND0.prefab
+- Assets/Models/Meshes/C4PTN.fbx
+- Assets/Textures/Materials/Item/Loader/loaderMat2.mat
+- Assets/Textures/Materials/Item/Captain/captainMaterialNew0.mat
+- Assets/Models/Prefabs/Item/Merc/M3RCNR-3.prefab
+- Assets/Textures/Materials/Item/Huntress/huntressMat1.mat
+- Assets/Textures/Materials/Item/Commando/commandoMat2.mat
+- Assets/Textures/Materials/Item/Loader/loaderMat1.mat
+Dependencies: []

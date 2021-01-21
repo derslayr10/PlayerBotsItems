@@ -1,0 +1,11 @@
+{
+    "name": "PlayerBotsItems",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/derslayr10/PlayerBotsItems",
+    "description": "A mod that adds items to spawn bots from the PlayerBots mod.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.3.1",
+		"tristanmcpherson-R2API-2.5.14",
+		"Meledy-PlayerBots-1.4.1"
+    ]
+}
