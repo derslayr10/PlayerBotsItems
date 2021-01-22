@@ -6,7 +6,8 @@ using UnityEngine;
 using PlayerBotsItemsMod.Items;
 using System.Collections.Generic;
 
-namespace PlayerBotsItemsMod{
+namespace PlayerBotsItemsMod
+{
 
 	[BepInDependency(R2API.R2API.PluginGUID, R2API.R2API.PluginVersion)]
 	[BepInDependency("com.meledy.PlayerBots", BepInDependency.DependencyFlags.HardDependency)]
@@ -51,7 +52,7 @@ namespace PlayerBotsItemsMod{
 
 		}
 
-		public void VerifyItem(ItemBase item, List<ItemBase> itemList)
+        public void VerifyItem(ItemBase item, List<ItemBase> itemList)
 		{
 
 			var isEnabled = Config.Bind<bool>("Item: " + item.ItemName, "Enable Item?", true, "Enable this item to appear in game?").Value;

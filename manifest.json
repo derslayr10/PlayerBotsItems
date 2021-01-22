@@ -1,6 +1,6 @@
 {
     "name": "PlayerBotsItems",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/derslayr10/PlayerBotsItems",
     "description": "A mod that adds items to spawn bots from the PlayerBots mod.",
     "dependencies": [

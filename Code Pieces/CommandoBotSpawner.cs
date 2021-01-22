@@ -56,19 +56,22 @@ namespace PlayerBotsItemsMod.Items
 
         }
 
+        private int botComCount = 0;
+
         private void SummonBotsHook(On.RoR2.CharacterMaster.orig_OnInventoryChanged orig, CharacterMaster self)
         {
 
             orig(self);
 
-            int botCount = self.inventory.GetItemCount(Index) - 1;
+            
 
             SurvivorIndex index = SurvivorIndex.Commando;
 
-            if ((self.playerCharacterMasterController != null) && (self.inventory.GetItemCount(Index) > 0) && (self.inventory.GetItemCount(Index) > botCount))
+            if ((self.playerCharacterMasterController != null) && (GetCount(self) > 0) && (GetCount(self) > botComCount))
             {
 
                 PlayerBotManager.SpawnPlayerbots(self, index, NumC0MND0BotsSpawned);
+                botComCount = GetCount(self);
 
             }
 

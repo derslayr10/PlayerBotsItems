@@ -19,4 +19,6 @@ In addition to this, the mod also inherits Config Changes from PlayerBots, so be
 - Make bots teleport to their owner upon activation of the teleporter event
 
 # Changelog
+- v1.1.0: Fixed issue where bots were spawning on every item pickup.
+
 - v1.0.0: Initial release of mod.
